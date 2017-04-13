@@ -1,4 +1,4 @@
-# Course3Assignment
+# Course3 Week4 Assignment
 The code cleans data and summarizes it
 
 The two main sections of the code.
